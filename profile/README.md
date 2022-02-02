@@ -1,9 +1,10 @@
 Hi there 👋
 ===
 
-In this GitHub org we are building the greatest recipe and food planner app the world has ever seen.
+Our vision is to provide an free, easy to use recipe app - for everyone.
 
-> Currently there is not to much to see here :) 
+> Empower everyone to a healthy lifestyle while utilizing resources in an sustainable, thoughtful way.
+
 
 # Roadmap
 

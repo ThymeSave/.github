@@ -13,3 +13,7 @@ Hi there 👋
 ## Roadmap
 
 For the roadmap please click [here](https://github.com/orgs/ThymeSave/projects/3)
+
+## Documentation
+
+Looking for juicy documentation? - Take a look at the [cookbook](https://thymesave.app/cookbook/)!

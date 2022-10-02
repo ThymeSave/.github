@@ -24,5 +24,15 @@
     "dependencyDashboard": false,
     "pre-commit": {
         "enabled": true
-    }
+    },
+    "packageRules": [
+        {
+            "matchPackagePatterns":[
+                "eslint",
+                "@typescript-eslint/",
+                "@angular-eslint/"
+            ],
+            "groupName": "eslint"
+        }
+    ]
 }

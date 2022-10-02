@@ -16,7 +16,8 @@
         "npm",
         "pre-commit",
         "terraform-version",
-        "terraform"
+        "terraform",
+        "pip_requirements"
     ],
     "prHourlyLimit": 0,
     "prConcurrentLimit": 0,
